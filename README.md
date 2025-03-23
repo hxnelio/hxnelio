@@ -1,27 +1,53 @@
-# 👋 Bonjour, je suis Vyana
+# 👋 Salut, je suis Henelio !
+
+Passionné par le développement de bots Discord et d'applications web, j'aime créer des solutions innovantes pour améliorer l'expérience utilisateur et optimiser la gestion des serveurs.
+
+---
 
 ## 🚀 À propos de moi
-Je suis un développeur passionné, spécialisé dans le développement de bots Discord et d'applications web. J'aime créer des solutions innovantes pour améliorer l'expérience des utilisateurs sur les serveurs Discord.
+- 🎯 Développeur spécialisé en **bots Discord** et **applications web**
+- 🛠 Expérience avec **Discord.js**, **Node.js** et d'autres outils essentiels
+- 💡 Toujours à la recherche de nouvelles idées pour automatiser et simplifier les interactions sur Discord
+
+---
 
 ## 🛠 Compétences
-- Langages : JavaScript, HTML, CSS
-- Frameworks : Discord.js, Node.js
-- Outils : Git, GitHub
 
-## 🔭 Projets principaux
-- **SecurBot** : Un bot de protection avancé pour Discord, offrant des fonctionnalités anti-raid, de modération et de vérification personnalisables.
-- **Wave** : Un bot de gestion polyvalent pour Discord, simplifiant l'administration des serveurs et améliorant l'engagement des membres.
+### 🌐 Langages
+- **JavaScript**
+- **HTML / CSS**
 
-## 📫 Comment me joindre
-- Discord : [[Vyana](https://discord.gg/ByUJ8h8MC5)]
-- Pseudonyme : [Vyana]
+### ⚙️ Frameworks et Outils
+- **Discord.js** | **Node.js**
+- **Git & GitHub**
+- **API REST & Webhooks**
 
-## 📊 Mes stats GitHub
+---
+
+## 🔥 Projets phares
+
+### 🛡️ SecurBot
+> Un bot de protection avancé pour Discord avec des fonctionnalités **anti-raid**, **modération** et **vérification personnalisable**.
+
+🔗 [Voir le projet](https://github.com/HenelioFR/SecurBot)
+
+---
+
+## 📈 Mes statistiques GitHub
+
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Henelio&show_icons=true&theme=radical)
 
-## 🎯 Objectifs 2024
-- Atteindre 100 serveurs utilisant SecurBot
-- Lancer une version bêta de Wave avec de nouvelles fonctionnalités de gestion d'événements
-- Contribuer à des projets open source liés à Discord.js
+---
 
-⭐️ From [Vyana](https://github.com/henelio-dev)
+## 🎯 Objectifs 2024
+- 🚀 **Atteindre 100 serveurs utilisant SecurBot**
+- 🏗️ **Lancer une version bêta de Wave** avec de nouvelles fonctionnalités de gestion d'événements
+- 🤝 **Contribuer à des projets open source** liés à Discord.js
+
+---
+
+## 📫 Me contacter
+- 🗨️ **Discord** : [Henelio](https://discord.gg/4HkUmqBCrf)
+- 🏠 **GitHub** : [henelio-dev](https://github.com/HenelioFR)
+
+💙 *N'hésitez pas à me suivre et à contribuer à mes projets !* 🚀
