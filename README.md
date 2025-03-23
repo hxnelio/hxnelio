@@ -48,6 +48,6 @@ Passionné par le développement de bots Discord et d'applications web, j'aime c
 
 ## 📫 Me contacter
 - 🗨️ **Discord** : [Henelio](https://discord.gg/4HkUmqBCrf)
-- 🏠 **GitHub** : [henelio-dev](https://github.com/HenelioFR)
+- 🏠 **GitHub** : [HenelioFR](https://github.com/HenelioFR)
 
 💙 *N'hésitez pas à me suivre et à contribuer à mes projets !* 🚀
