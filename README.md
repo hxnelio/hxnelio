@@ -39,7 +39,7 @@ Passionné par le développement de bots Discord et d'applications web, j'aime c
 
 ---
 
-## 🎯 Objectifs 2024
+## 🎯 Objectifs 2025
 - 🚀 **Atteindre 100 serveurs utilisant SecurBot**
 - 🏗️ **Lancer une version bêta de Wave** avec de nouvelles fonctionnalités de gestion d'événements
 - 🤝 **Contribuer à des projets open source** liés à Discord.js
