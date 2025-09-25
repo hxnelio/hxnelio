@@ -34,7 +34,7 @@ Voici le repo principaux que j'utilise pour mes bots ! :
 
 ## 📫 Me contacter
 
-- **GitHub** : [@H1ioO](https://github.com/hxnelio)  
+- **GitHub** : [@Hxnelio](https://github.com/hxnelio)  
 - Tu peux aussi m’envoyer un message ici-même si tu veux discuter d’une idée ou d’une collaboration !
 
 ---
