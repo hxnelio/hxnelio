@@ -26,7 +26,7 @@ Voici le repo principaux que j'utilise pour mes bots ! :
 
 ## 🛠 Compétences techniques
 
-- Langages : JavaScript (Node.js), … *(ajoute les autres si tu en utilises)*
+- Langages : JavaScript (Node.js)
 - Outils : Discord.js, GitHub, versionnage Git, open-source
 - Autres : configuration de projet, travail collaboratif, documentation
 
