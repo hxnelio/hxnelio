@@ -1,47 +1,59 @@
-# 👋 Salut, je suis Henelio
+# 💕✨ Heyyy, moi c’est **Henelio** ✨💕
 
-**Développeur** passionné, spécialisé dans les bots Discord en *JavaScript*. Je parle **français** et **anglais**.
-
----
-
-## ⚡ À propos de moi
-
-|                        |                                                  |
-|------------------------|--------------------------------------------------|
-| 🔭 Je travaille sur     | Des bots Discord, des configs GitHub, et plus    |
-| 🌱 J'apprends en ce moment | Améliorer mes compétences back-end / Node.js     |
-| 👯 Je collabore avec    | Toute personne intéressée par les bots ou open-source |
-| 💬 Dis-moi “bonjour”    | sur **Discord** ou **GitHub**, je suis toujours dispo |
+🖤 **Développeur passionné**  
+🤖 Spécialisé dans les **bots Discord** en *JavaScript*  
+🌍 Je parle **français** & **anglais**  
+☕ Code + Discord = mon mood  
 
 ---
 
-## 📂 Repositories récents & projets
+## 🌸💭 À propos de moi
 
-Voici le repo principaux que j'utilise pour mes bots ! :
-
-- **discord.js** *(fork du repo officiel)*  
-  [@discord.js](https://github.com/discordjs/discord.js)
-  
----
-
-## 🛠 Compétences techniques
-
-- Langages : JavaScript (Node.js)
-- Outils : Discord.js, GitHub, versionnage Git, open-source
-- Autres : configuration de projet, travail collaboratif, documentation
+| 💗 | ✨ |
+|----|----|
+| 🔭 Ce que je fais | Des **bots Discord**, configs GitHub & projets cool |
+| 🌱 En train d’apprendre | Back-end vibes & **Node.js** |
+| 👯 Je collab | Avec toute personne qui aime les bots & l’open-source |
+| 💬 Say hi | Sur **Discord** ou **GitHub**, toujours open ✨ |
 
 ---
 
-## 📫 Me contacter
+## 🧸📦 Repositories & projets
 
-- **GitHub** : [@Hxnelio](https://github.com/hxnelio)
-- **Discord** : [@henelio](https://discord.gg/kdrkujHjmQ)
-- Tu peux aussi m’envoyer un message ici-même ou sur Discord si tu veux discuter d’une idée ou d’une collaboration !
+Les repos que j’utilise le plus pour mes bots 👇💞  
+
+- **Discord.js** *(fork officiel)*  
+  💫 https://github.com/discordjs/discord.js
 
 ---
 
-## 🌟 Si tu veux aller plus loin
+## 🛠💖 Tech stack
 
-- N’hésite pas à ⭐ mes repos si tu les trouves utiles !  
-- Fork, clone, propose des améliorations – j’adore voir le feedback de la communauté.
+✨ **Langage**
+- JavaScript (Node.js)
 
+✨ **Outils**
+- Discord.js  
+- Git & GitHub  
+- Open-source life  
+
+✨ **Autres skills**
+- Config de projets  
+- Travail en équipe  
+- Documentation clean 🧼  
+
+---
+
+## 💌📫 Me contacter
+
+- 💻 **GitHub** : https://github.com/hxnelio  
+- 💬 **Discord** : https://discord.gg/kdrkujHjmQ  
+- Tu peux m’écrire anytime ici ou sur Discord pour parler projets, idées ou collabs ✨  
+
+---
+
+## 🌟🖤 Support & love
+
+- Lâche une ⭐ si un repo t’aide 💕  
+- Fork, clone, améliore — j’adore voir la commu participer 🫶  
+- Merci de passer sur mon profil, stay cute & keep coding ✨  
