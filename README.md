@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Hxnelio
+# 👋 Salut, je suis Henelio
 
 **Développeur** passionné, spécialisé dans les bots Discord en *JavaScript*. Je parle **français** et **anglais**.
 
